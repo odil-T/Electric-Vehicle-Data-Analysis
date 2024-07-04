@@ -1,6 +1,6 @@
 This repository stores the files needed to perform data analysis of a dataset containing information about eletric vehicles registered through Washington State Department of Licensing.
 
-You can view the dashboard made with Power BI [here](https://app.powerbi.com/groups/me/reports/81c30448-737c-4960-b3ee-fbd022ee18df/b4101e3eca09526e34d6?experience=power-bi).
+You can view the dashboard through the Power BI Service [here](https://app.powerbi.com/groups/me/reports/81c30448-737c-4960-b3ee-fbd022ee18df/b4101e3eca09526e34d6?experience=power-bi).
 
 ### File Information
 
