@@ -6,7 +6,7 @@ You can view the dashboard through the Power BI Service [here](https://app.power
 
 `initialize_db.sql` has the SQL statements needed to initialize the database and the table in MySQL.
 
-`load_data_mysql.py` is the script used to clean the data in Python using pandas and load the data to MySQL.
+`load_data_mysql.py` is a Python script used to clean the data using pandas and load the data to MySQL.
 
 `all_queries.sql` file contains the SQL statements that can query the dataset for data analysis.
 
