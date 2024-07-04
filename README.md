@@ -1,4 +1,4 @@
-This repository stores the files needed to perform data analysis of a dataset containing information about eletric vehicles registered through Washington State Department of Licensing.
+Data analysis of [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data).
 
 You can view the dashboard through the Power BI Service [here](https://app.powerbi.com/groups/me/reports/81c30448-737c-4960-b3ee-fbd022ee18df/b4101e3eca09526e34d6?experience=power-bi).<br>Alternatively, download the `electric_vehicle_dashboard.pbix` file and view using Power BI Desktop application.
 
@@ -23,7 +23,3 @@ Below are the questions that were answered through data analysis of this dataset
 6. Which electric utilities have the most electric vehicle registrations in their service territories?
 
 Please note that the SQL statements given in `all_queries.sql` were not actually needed since Power BI could be used to extract the relevant information.
-
-### Dataset Information
-
-The dataset used can be found [here](https://catalog.data.gov/dataset/electric-vehicle-population-data).
