@@ -17,9 +17,9 @@ You can view the dashboard through the Power BI Service [here](https://app.power
 Below are the questions that were answered by analyzing the dataset:
 1. In which counties are electric vehicles most concentrated?
 2. What is the proportion of all-electric vehicles compared to plug-in hybrids?
-3. How does the electric vehicle type distribution vary by model year or manufacturer?
+3. How does the electric vehicle type distribution vary by model year?
 4. Is there a correlation between electric vehicle range and base MSRP?
-5. Do consumers in certain areas tend to prioritize longer range or lower cost vehicles?
-6. Which electric utilities have the most electric vehicle registrations in their service territories?
+5. Do consumers in certain areas tend to prioritize longer range vehicles?
+6. Which electric utilities have the most electric vehicle registrations?
 
 Please note that the SQL statements given in `all_queries.sql` were not actually needed since Power BI could be used to extract the relevant information.
