@@ -14,7 +14,7 @@ You can view the dashboard through the Power BI Service [here](https://app.power
 
 ### Questions Answered
 
-Below are the questions that were answered through data analysis of this dataset:
+Below are the questions that were answered by analyzing the dataset:
 1. In which counties are electric vehicles most concentrated?
 2. What is the proportion of all-electric vehicles compared to plug-in hybrids?
 3. How does the electric vehicle type distribution vary by model year or manufacturer?
