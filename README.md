@@ -2,9 +2,17 @@ This repository stores the files needed to perform data analysis of a dataset co
 
 The dataset used can be found [here](https://catalog.data.gov/dataset/electric-vehicle-population-data).
 
-`all_queries.sql` file contains the SQL statements that can query the dataset for data analysis. MySQL database management system was used.
+### File Information
 
-Power BI was used to build the visualizations. `electric_vehicle_dashboard.pbix` file stores the visualizations built using 
+`initialize_db.sql` has the SQL statements needed to initialize the database and the table in MySQL.
+
+`load_data_mysql.py` is the script used to clean the data in Python using pandas and load the data to MySQL.
+
+`all_queries.sql` file contains the SQL statements that can query the dataset for data analysis.
+
+`electric_vehicle_dashboard.pbix` file stores the visualizations built using Power BI.
+
+### Questions Answered
 
 Below are the questions that were answered through data analysis of this dataset:
 1. In which counties are electric vehicles most concentrated?
