@@ -23,3 +23,15 @@ Below are the questions that were answered by analyzing the dataset:
 6. Which electric utilities have the most electric vehicle registrations?
 
 Please note that the SQL statements given in `all_queries.sql` were not actually needed since Power BI could be used to extract the relevant information.
+
+Given below are charts taken from the Power BI report:
+
+![page1](https://github.com/user-attachments/assets/f1b415fc-1303-48ea-801f-c34862addb81)
+
+![page2](https://github.com/user-attachments/assets/05897a89-95ba-408d-a834-c8591db956fc)
+
+![page3](https://github.com/user-attachments/assets/8dc25e3a-4180-4821-a126-163a358082c9)
+
+![page4](https://github.com/user-attachments/assets/5ae64d32-65b3-4268-b799-e453b64c2551)
+
+![page5](https://github.com/user-attachments/assets/9bf3ca8a-3111-4d34-80e9-138a83e7eff2)
